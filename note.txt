@@ -1,5 +1,6 @@
 visit url: http://localhost:2222/add?a=7&b=8
 
 C:\Tools\Mars\workspace\brixton-eureka-server\target
+#启动高可用性server
 java -jar brixton-eureka-server-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer1
 java -jar brixton-eureka-server-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer2
