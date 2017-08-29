@@ -1,0 +1,1 @@
+visit url: http://localhost:5555/api-a/add?a=1&b=2&accessToken=token
