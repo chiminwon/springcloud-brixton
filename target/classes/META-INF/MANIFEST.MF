@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Implementation-Title: brixton-eureka-ribbon
+Implementation-Title: brixton-eureka-consumer-ribbon
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: awan026
 Implementation-Vendor-Id: com.ming.springcloud
